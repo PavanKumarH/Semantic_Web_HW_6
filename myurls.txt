@@ -1,0 +1,12 @@
+# complete the three urls for your pages
+
+# rdfa version
+http://
+
+# microdata version
+http://
+
+# json-ld version
+http://
+
+
